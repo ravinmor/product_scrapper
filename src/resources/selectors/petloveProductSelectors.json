@@ -1,0 +1,6 @@
+{
+    "productName": "header>h1.h1",
+    "productPriceInCash": "div.variant-list-price.mr-3",
+    "productPrice": "div.product-price-discounted.mb-3 > div > div.col-auto > div.product-price",
+    "productDescont": "div.flag.product-discount-flag.mr-2"
+}
