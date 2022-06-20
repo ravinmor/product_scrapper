@@ -2,7 +2,7 @@
 
 ## About
 
-Project to extract product data from Pet Love product page
+Project to extract product data from Pet Love and Magazineluiza product page
 
 ## Setup
 To start the project will be necessary run the following scripts:
@@ -22,6 +22,7 @@ $ yarn start
 # The server wil run on port:3333 - Access <http://localhost:3333>
 # You can extract using puppeter and DOM manipulation accessing /getPetLoveProduct
 # Or you can extract using regex and node-fetch accessing /getPetLoveProductWithRegex
+# Or you can extract using regex and node-fetch accessing /getMagazineProductData
 ```
 
 ## Technologies

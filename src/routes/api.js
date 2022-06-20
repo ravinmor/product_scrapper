@@ -7,5 +7,6 @@ const routes = Router();
 routes.get("/", (req, res) => {res.send("Hello world")});
 routes.post("/getPetLoveProduct", puppeteerScrapperController.getPetLoveProductInfo)
 routes.post("/getPetLoveProductWithRegex", regexScrapper.getPetLoveProductInfo)
+routes.post("/getMagazineProductData", regexScrapper.getMagazineProductData)
 
 export { routes }

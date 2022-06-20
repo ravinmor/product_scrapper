@@ -11,7 +11,7 @@ export default {
                 productName: document.querySelector(productSelectors.productName).innerText,
                 productPriceInCash: document.querySelector(productSelectors.productPriceInCash).innerText,
                 productPrice: document.querySelector(productSelectors.productPrice).innerText,
-                productDescont: document.querySelector(productSelectors.productDescont).innerText
+                productDiscount: document.querySelector(productSelectors.productDiscount).innerText
             }
         }, productSelectors)
     
